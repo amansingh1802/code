@@ -9,6 +9,6 @@ productRouter.get("/",(request,response)=>{
 })
 
 productRouter.get("/",(request,response)=>{
-    response.send("inside productjs");
+    response.send("inside productlkjjs");
 })
 module.exports= productRouter;
